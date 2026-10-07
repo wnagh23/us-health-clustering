@@ -1,0 +1,52 @@
+Region,Division,State
+Northeast,New England,Connecticut
+Northeast,Mid-Atlantic,New Jersey
+Midwest,East North Central,Illinois
+Midwest,West North Central,Iowa
+South,South Atlantic,Delaware
+South,East South Central,Alabama
+South,West South Central,Arkansas
+West,Mountain,Arizona
+West,Pacific,Alaska
+Northeast,New England,Maine
+Northeast,Mid-Atlantic,New York
+Midwest,East North Central,Indiana
+Midwest,West North Central,Kansas
+South,South Atlantic,District of Columbia
+South,East South Central,Kentucky
+South,West South Central,Louisiana
+West,Mountain,Colorado
+West,Pacific,California
+Northeast,New England,Massachusetts
+Northeast,Mid-Atlantic,Pennsylvania
+Midwest,East North Central,Michigan
+Midwest,West North Central,Minnesota
+South,South Atlantic,Florida
+South,East South Central,Mississippi
+South,West South Central,Oklahoma
+West,Mountain,Idaho
+West,Pacific,Hawaii
+Northeast,New England,New Hampshire
+Midwest,East North Central,Ohio
+Midwest,West North Central,Missouri
+South,South Atlantic,Georgia
+South,East South Central,Tennessee
+South,West South Central,Texas
+West,Mountain,Montana
+West,Pacific,Oregon
+Northeast,New England,Rhode Island
+Midwest,East North Central,Wisconsin
+Midwest,West North Central,Nebraska
+South,South Atlantic,Maryland
+West,Mountain,Nevada
+West,Pacific,Washington
+Northeast,New England,Vermont
+Midwest,West North Central,North Dakota
+South,South Atlantic,North Carolina
+West,Mountain,New Mexico
+Midwest,West North Central,South Dakota
+South,South Atlantic,South Carolina
+West,Mountain,Utah
+South,South Atlantic,Virginia
+West,Mountain,Wyoming
+South,South Atlantic,West Virginia

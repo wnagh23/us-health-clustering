@@ -1,0 +1,21 @@
+# Python / uv
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Raw downloads (see data/README.md); processed files in data/ are committed
+data/raw/
+
+# IDE / OS
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
